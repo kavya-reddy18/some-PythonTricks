@@ -4,21 +4,21 @@ SOME - PYTHON TRICKS
 
  resources:
  
-   pip install winsound
+    pip install winsound
    
  Run:
  
-   python beepsound.py
+    python beepsound.py
 
 #2> covidcases
 
  resources:
  
-   pip install covid
+    pip install covid
    
  Run:
  
-   python covidcases.py
+    python covidcases.py
 
 #3> Load html page
   
