@@ -49,3 +49,14 @@ SOME - PYTHON TRICKS
    Run:
    
       python todaysdate.py  
+      
+ #6> Road Accidents data
+ 
+   resources:
+       
+       pip install numpy
+       pip install matplotlib
+     
+  Run:
+   
+       python Roadaccidentsdata.py
